@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 data = {
   "Duration":{
     "0":60,
